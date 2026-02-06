@@ -1,8 +1,8 @@
-# ☕ Meus Estudos de Java
+#  Meus Estudos de Java
 
 Este repositório foi criado para documentar minha jornada de aprendizado na linguagem Java. Aqui você encontrará desde exercícios de lógica básica até projetos mais estruturados conforme eu progrido nos estudos.
 
-## 🚀 Objetivo
+##  Objetivo
 O foco principal é consolidar conceitos fundamentais como:
 * Sintaxe da linguagem e Tipos de Dados.
 * Estruturas de Controle (if/else, loops).
@@ -11,7 +11,7 @@ O foco principal é consolidar conceitos fundamentais como:
 
 ---
 
-## 📂 Estrutura do Repositório
+##  Estrutura do Repositório
 
 A organização foi pensada para facilitar a navegação por tema:
 
@@ -23,7 +23,7 @@ A organização foi pensada para facilitar a navegação por tema:
 
 ---
 
-## 🛠️ Como rodar os exercícios
+##  Como rodar os exercícios
 
 Para executar qualquer um dos arquivos presentes aqui, você precisará ter o **JDK (Java Development Kit)** instalado em sua máquina.
 

@@ -30,4 +30,19 @@ Para executar qualquer um dos arquivos presentes aqui, você precisará ter o **
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/seu-usuario/estudos-java.git](https://github.com/seu-usuario/estudos-java.git)
+2. Entre na pasta do exercício desejado.
 
+3. Compile e execute pelo terminal:
+javac NomeDoArquivo.java
+java NomeDoArquivo
+
+# Evolução
+[x] Lógica de programação básica.
+
+[x] Manipulação de variáveis e entrada/saída (Scanner).
+
+[ ] Domínio de Arrays e Matrizes. (Em progresso)
+
+[ ] Introdução à Programação Orientada a Objetos.
+
+📫 Conecte-se comigo: felipbents@gmail.com

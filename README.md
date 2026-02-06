@@ -19,7 +19,6 @@ A organização foi pensada para facilitar a navegação por tema:
 * **`02-Estruturas-Condicionais-e-Repeticao/`**: Scripts focados em `for`, `while`, `switch case` e lógica de decisão.
 * **`03-Arrays-e-Listas/`**: Manipulação de vetores, matrizes e coleções de dados.
 
-*(Nota: Adicione novas pastas aqui conforme for criando)*
 
 ---
 
@@ -31,10 +30,9 @@ Para executar qualquer um dos arquivos presentes aqui, você precisará ter o **
    ```bash
    git clone [https://github.com/seu-usuario/estudos-java.git](https://github.com/seu-usuario/estudos-java.git)
 2. Entre na pasta do exercício desejado.
-
 3. Compile e execute pelo terminal:
-javac NomeDoArquivo.java
-java NomeDoArquivo
+- javac NomeDoArquivo.java
+- java NomeDoArquivo
 
 # Evolução
 [x] Lógica de programação básica.

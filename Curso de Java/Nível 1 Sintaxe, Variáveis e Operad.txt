@@ -1,0 +1,53 @@
+Nível 1: Sintaxe, Variáveis e Operadores
+Olá Mundo: Imprima "Olá Mundo" no console.
+
+Soma Simples: Leia dois números inteiros e exiba a soma.
+
+Média Aritmética: Leia três notas e calcule a média simples.
+
+Conversor de Temperatura: Converta uma temperatura de Celsius para Fahrenheit.
+
+Calculadora de Área: Calcule a área de um círculo (π * r²).
+
+Troca de Valores: Leia dois valores (A e B) e troque os valores entre as variáveis.
+
+Salário: Leia o número de horas trabalhadas e o valor por hora para calcular o salário mensal.
+
+Nível 2: Estruturas Condicionais (if, else, switch)
+Par ou Ímpar: Receba um número e diga se ele é par ou ímpar.
+
+Maior de Três: Leia três números e imprima qual é o maior deles.
+
+Aprovação Escolar: Com base na média, diga se o aluno está "Aprovado" (>= 7), "Recuperação" (5 a 6.9) ou "Reprovado" (< 5).
+
+Calculadora Básica: Peça dois números e um operador (+, -, *, /) e realize a operação usando switch.
+
+Triângulos: Leia três lados e diga se podem formar um triângulo e qual o tipo (equilátero, isósceles ou escaleno).
+
+Ano Bissexto: Verifique se um ano informado pelo usuário é bissexto.
+
+Nível 3: Estruturas de Repetição (for, while, do-while)
+Contagem Regressiva: Imprima de 10 até 0 usando um laço de repetição.
+
+Tabuada: Peça um número e imprima a tabuada dele de 1 a 10.
+
+Soma de Intervalo: Peça dois números e some todos os números inteiros entre eles.
+
+Fatorial: Calcule o fatorial de um número fornecido pelo usuário.
+
+Números Primos: Verifique se um número inteiro positivo é primo.
+
+Sequência de Fibonacci: Exiba os primeiros N termos da sequência de Fibonacci.
+
+Validação de Dados: Peça para o usuário digitar uma nota entre 0 e 10. Enquanto o valor for inválido, continue pedindo.
+
+Nível 4: Arrays (Vetores) e Strings
+Soma de Vetor: Crie um array de 5 números inteiros, leia os valores e exiba a soma de todos.
+
+Maior e Menor no Array: Encontre o maior e o menor valor dentro de um array de 10 elementos.
+
+Vetor Inverso: Leia um array de 5 nomes e imprima-os na ordem inversa.
+
+Contador de Vogais: Leia uma String e conte quantas vogais ela possui.
+
+Busca no Vetor: Peça 10 números, guarde-os em um array e depois peça um número extra para verificar se ele está presente no vetor e em qual posição.

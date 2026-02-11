@@ -14,7 +14,6 @@ public class Ex1 {
             parOuImpar(numero);
 
         }
-
         void parOuImpar (int number) {
             if (number % 2 == 0) {
                 System.out.println("O numero " + number + " é par");
